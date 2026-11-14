@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <rect width="1200" height="240" fill="#0a0a0a"/>
+  <rect width="1200" height="6" fill="#DC2626"/>
+  <rect y="234" width="1200" height="6" fill="#DC2626"/>
+  <text x="600" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle">José Ángel Maldonado Guzmán</text>
+  <text x="600" y="155" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#EF4444" text-anchor="middle">Computer Engineering · Renewable Energy · Technology · Sustainability</text>
+</svg>
