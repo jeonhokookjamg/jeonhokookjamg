@@ -49,8 +49,7 @@
 <p align="center">
   I'm the founder and General Director of <b>ASMI</b>, a multihospital healthcare
   management system, and I serve as Student Counselor (Consejero Alumno) for Computer
-  Engineering at UAEMéx Valle de Chalco. I was a finalist at <b>HackODS UNAM</b> with
-  climate-resilience dashboards, I lead the environmental education workshop
+  Engineering at UAEMéx Valle de Chalco. I lead the environmental education workshop
   <b>Bio Cux</b> in my community, and I publish science and technology articles
   on blogs around the world.
 </p>
@@ -243,6 +242,14 @@
   <img src="https://img.shields.io/badge/Sustainability-000000?style=for-the-badge&logo=leaf&logoColor=EF4444" alt="Sustainability" />
   <img src="https://img.shields.io/badge/Renewable_Energy-000000?style=for-the-badge&logo=powerbi&logoColor=EF4444" alt="Renewable Energy" />
   <img src="https://img.shields.io/badge/Climate_Tech-000000?style=for-the-badge&logo=environment&logoColor=EF4444" alt="Climate Tech" />
+</p>
+
+<h2 align="center">🏆 Logros destacados</h2>
+
+<p align="center">
+  🏅 <b>Finalist — HackODS UNAM 2026</b><br />
+  With team LosPatosClimaticODS: territorial alert dashboards that protect
+  education (SDG 4) against climate change.
 </p>
 
 <h2 align="center">🐍 Contribution Journey</h2>
