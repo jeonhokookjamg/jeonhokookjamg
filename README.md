@@ -7,16 +7,6 @@
 </p>
 
 <p align="center">
-  🌐 <b>Read this page in:</b>
-  <a href="https://jeonhokookjamg.github.io/jeonhokookjamg/">English</a> ·
-  <a href="https://jeonhokookjamg-github-io.translate.goog/jeonhokookjamg/?_x_tr_sl=en&amp;_x_tr_tl=es&amp;_x_tr_hl=es">Español</a> ·
-  <a href="https://jeonhokookjamg-github-io.translate.goog/jeonhokookjamg/?_x_tr_sl=en&amp;_x_tr_tl=fr&amp;_x_tr_hl=fr">Français</a> ·
-  <a href="https://jeonhokookjamg-github-io.translate.goog/jeonhokookjamg/?_x_tr_sl=en&amp;_x_tr_tl=pt&amp;_x_tr_hl=pt">Português</a> ·
-  <a href="https://jeonhokookjamg-github-io.translate.goog/jeonhokookjamg/?_x_tr_sl=en&amp;_x_tr_tl=ja&amp;_x_tr_hl=ja">日本語</a> ·
-  <a href="https://jeonhokookjamg-github-io.translate.goog/jeonhokookjamg/?_x_tr_sl=en&amp;_x_tr_tl=ko&amp;_x_tr_hl=ko">한국어</a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi+there!+I'm+Jose+Angel+Maldonado+Guzman;Computer+Engineering+Student;Renewable+Energy+Engineering+Student;AI%2C+Software+%26+Sustainability;Building+technology+for+real-world+problems" width="100%" style="max-width:650px;" alt="Typing SVG" />
 </p>
 
@@ -54,6 +44,15 @@
   <br /><br />
   I'm interested in combining <b>software development, artificial intelligence,
   data, renewable energy and environmental technology</b> to create practical solutions.
+</p>
+
+<p align="center">
+  I'm the founder and General Director of <b>ASMI</b>, a multihospital healthcare
+  management system, and I serve as Student Counselor (Consejero Alumno) for Computer
+  Engineering at UAEMéx Valle de Chalco. I was a finalist at <b>HackODS UNAM</b> with
+  climate-resilience dashboards, I lead the environmental education workshop
+  <b>Bio Cux</b> in my community, and I publish science and technology articles
+  on blogs around the world.
 </p>
 
 <p align="center">
@@ -200,7 +199,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css&theme=dark" width="100%" style="max-width:430px;" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,ts&theme=dark" width="100%" style="max-width:430px;" alt="Programming Languages" />
 </p>
 
 <p align="center">
@@ -208,7 +207,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,tailwind&theme=dark" width="100%" style="max-width:430px;" alt="Frontend & Mobile" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue,angular&theme=dark" width="100%" style="max-width:430px;" alt="Frontend & Mobile" />
 </p>
 
 <p align="center">
@@ -216,7 +215,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,mysql,postgresql&theme=dark" width="100%" style="max-width:430px;" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,java,mysql,postgresql,flask,django,express&theme=dark" width="100%" style="max-width:430px;" alt="Backend & Databases" />
 </p>
 
 <p align="center">
@@ -224,7 +223,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,linux,raspberrypi,arduino&theme=dark" width="100%" style="max-width:430px;" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,raspberrypi,linux,docker,visualstudio&theme=dark" width="100%" style="max-width:430px;" alt="Tools & Technologies" />
 </p>
 
 <p align="center">
@@ -244,18 +243,6 @@
   <img src="https://img.shields.io/badge/Sustainability-000000?style=for-the-badge&logo=leaf&logoColor=EF4444" alt="Sustainability" />
   <img src="https://img.shields.io/badge/Renewable_Energy-000000?style=for-the-badge&logo=powerbi&logoColor=EF4444" alt="Renewable Energy" />
   <img src="https://img.shields.io/badge/Climate_Tech-000000?style=for-the-badge&logo=environment&logoColor=EF4444" alt="Climate Tech" />
-</p>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=jeonhokookjamg&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width:440px;" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jeonhokookjamg&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width:350px;" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jeonhokookjamg&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width:480px;" alt="GitHub Streak" />
 </p>
 
 <h2 align="center">🐍 Contribution Journey</h2>
