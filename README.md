@@ -45,7 +45,7 @@
 
 <p align="center">
   <b>🎵 ON — BTS</b><br />
-  <iframe width="340" height="191" src="https://www.youtube.com/embed/mPVDGOVjRQ0" title="BTS 'ON' Official MV" frameborder="0" allow="accelerometer; autoplay; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0fZRNhPJ4AGmwY7rkpdbqK?utm_source=generator&si=3cf60ba913b14b29" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </p>
 
 <p align="center"><img src="assets/banner-about.svg" width="100%" alt="About Me" /></p>
