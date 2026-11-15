@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9a3412"/>
+      <stop offset="0.35" stop-color="#7f1d1d"/>
+      <stop offset="0.7" stop-color="#3b0764"/>
+      <stop offset="1" stop-color="#0b1035"/>
+    </linearGradient>
+    <linearGradient id="fwave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#dc2626"/>
+      <stop offset="0.35" stop-color="#9333ea"/>
+      <stop offset="0.65" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="140" fill="url(#fbg)"/>
+  <path d="M0 18 C 200 44, 400 -6, 600 18 C 800 42, 1000 -4, 1200 18 L1200 0 L0 0 Z" fill="url(#fwave)" opacity="0.8"/>
+  <text x="600" y="82" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="600" fill="#ffffff">Thanks for visiting · José Ángel Maldonado Guzmán</text>
+  <text x="600" y="114" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" letter-spacing="3" fill="#e9d5ff">TECHNOLOGY · SUSTAINABILITY · INNOVATION</text>
+</svg>
