@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="José Ángel Maldonado Guzmán Header" />
+  <img src="assets/header2.svg" width="100%" alt="José Ángel Maldonado Guzmán Header" />
 </p>
 
 <p align="center">
@@ -47,6 +47,10 @@
   <img src="https://img.shields.io/badge/Focus-Technology_%26_Sustainability-DC2626?style=flat-square" alt="Focus" />
 </p>
 
+<p align="center">
+  <img src="assets/ciudad.gif" width="640" style="max-width:100%;border-radius:12px;" alt="Ciudad inteligente" />
+</p>
+
 <h2 align="center">🎓 Academic Background</h2>
 
 <p align="center">
@@ -89,6 +93,12 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="assets/eolica.gif" width="640" style="max-width:100%;border-radius:12px;" alt="Energía eólica" />
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table width="100%" border="0" align="center">
@@ -106,6 +116,8 @@
   </tr>
 </table>
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 <h2 align="center">📚 Publications</h2>
 
 <h3>🌎 Around the World</h3>
@@ -117,7 +129,7 @@
 - 🇫🇷 **Canalblog (France)** — [Comunidades energéticas: cuando los vecinos producen su propia electricidad](https://cienciaytecnologia.canalblog.com/2026/11/comunidades-energeticas-cuando-los-vecinos-producen-su-propia-electricidad.html)
 - 🇪🇨 **Inkspired (Ecuador)** — [El Acuerdo de Escazú: justicia ambiental en América Latina](https://getinkspired.com/es/story/766794/el-acuerdo-de-escazu-justicia-ambiental-en-america-latina-explicado/)
 - 🇹🇭 **Blockdit (Thailand)** — [การจดจำใบหน้าในพื้นที่สาธารณะ](https://www.blockdit.com/posts/6af8b15f13407895884d33ed)
-- 🇹🇭 **Pantip (Thailand)** — [ขยะอวกาศ: กองขยะที่ใหญ่ที่สุดของมนุษยชาติ](https://pantip.com/topic/44286036)
+- 🇹🇭 **Pantip (Thailand)** — [ขยะอวกาศ: กองขยะที่ใหญ่ที่สุดของมนুষยชาติ](https://pantip.com/topic/44286036)
 
 <h3>📝 DEV.to</h3>
 
@@ -156,6 +168,8 @@
 - [Software libre](https://write.as/q0igle3u0be1k.md)
 - [Las matemáticas del supermercado](https://write.as/t8ie3wx3pav7v.md)
 - [La ciencia se corrige a sí misma](https://write.as/9m5h9g1cg43t6.md)
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -228,6 +242,8 @@
   <img src="https://raw.githubusercontent.com/jeonhokookjamg/jeonhokookjamg/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </p>
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
@@ -255,5 +271,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
+  <img src="assets/footer2.svg" width="100%" alt="Footer" />
 </p>
