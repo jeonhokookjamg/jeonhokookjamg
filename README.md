@@ -7,6 +7,16 @@
 </p>
 
 <p align="center">
+  🌐 <b>Read this page in:</b>
+  <a href="https://jeonhokookjamg.github.io/jeonhokookjamg/">English</a> ·
+  <a href="https://jeonhokookjamg-github-io.translate.goog/jeonhokookjamg/?_x_tr_sl=en&amp;_x_tr_tl=es&amp;_x_tr_hl=es">Español</a> ·
+  <a href="https://jeonhokookjamg-github-io.translate.goog/jeonhokookjamg/?_x_tr_sl=en&amp;_x_tr_tl=fr&amp;_x_tr_hl=fr">Français</a> ·
+  <a href="https://jeonhokookjamg-github-io.translate.goog/jeonhokookjamg/?_x_tr_sl=en&amp;_x_tr_tl=pt&amp;_x_tr_hl=pt">Português</a> ·
+  <a href="https://jeonhokookjamg-github-io.translate.goog/jeonhokookjamg/?_x_tr_sl=en&amp;_x_tr_tl=ja&amp;_x_tr_hl=ja">日本語</a> ·
+  <a href="https://jeonhokookjamg-github-io.translate.goog/jeonhokookjamg/?_x_tr_sl=en&amp;_x_tr_tl=ko&amp;_x_tr_hl=ko">한국어</a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi+there!+I'm+Jose+Angel+Maldonado+Guzman;Computer+Engineering+Student;Renewable+Energy+Engineering+Student;AI%2C+Software+%26+Sustainability;Building+technology+for+real-world+problems" width="100%" style="max-width:650px;" alt="Typing SVG" />
 </p>
 
@@ -124,18 +134,32 @@
 
 <h2 align="center">📚 Publications</h2>
 
-<h3>🌎 Around the World</h3>
+### 🇯🇵 Japón
 
-- 🇯🇵 **note (Japan)** — [Pagos digitales en India: el sistema UPI](https://note.com/jose_a_maldonado/n/n4d7604cfad76) · [The Right to Repair](https://note.com/jose_a_maldonado/n/n0d54d74035d7) · [ペロブスカイト太陽電池](https://note.com/jose_a_maldonado/n/n4607cd8ddb39)
-- 🇰🇷 **Velog (South Korea)** — [멕시코의 반도체: 칩을 만들기 위해 무엇이 부족한가](https://velog.io/@jose-a-maldonado/멕시코의-반도체-칩을-만들기-위해-무엇이-부족한가)
-- 🇰🇷 **Tistory (South Korea)** — [전기차 배터리는 죽지 않는다: 폐배터리의 두 번째 인생](https://joseangelmaldonado.tistory.com/1)
-- 🇫🇷 **OverBlog (France)** — [La Ley de Inteligencia Artificial de la Unión Europea explicada](https://ciencia-y-tecnologia-con-jose-maldonado.overblog.fr/2026/11/la-ley-de-inteligencia-artificial-de-la-union-europea-explicada.html)
-- 🇫🇷 **Canalblog (France)** — [Comunidades energéticas: cuando los vecinos producen su propia electricidad](https://cienciaytecnologia.canalblog.com/2026/11/comunidades-energeticas-cuando-los-vecinos-producen-su-propia-electricidad.html)
-- 🇪🇨 **Inkspired (Ecuador)** — [El Acuerdo de Escazú: justicia ambiental en América Latina](https://getinkspired.com/es/story/766794/el-acuerdo-de-escazu-justicia-ambiental-en-america-latina-explicado/)
-- 🇹🇭 **Blockdit (Thailand)** — [การจดจำใบหน้าในพื้นที่สาธารณะ](https://www.blockdit.com/posts/6af8b15f13407895884d33ed)
-- 🇹🇭 **Pantip (Thailand)** — [ขยะอวกาศ: กองขยะที่ใหญ่ที่สุดของมนุษยชาติ](https://pantip.com/topic/44286036)
+- [Pagos digitales en India: el sistema UPI](https://note.com/jose_a_maldonado/n/n4d7604cfad76)
+- [The Right to Repair](https://note.com/jose_a_maldonado/n/n0d54d74035d7)<br />*"El derecho a reparar"*
+- [ペロブスカイト太陽電池](https://note.com/jose_a_maldonado/n/n4607cd8ddb39)<br />*"Celdas solares de perovskita"*
 
-<h3>📝 DEV.to</h3>
+### 🇰🇷 Corea del Sur
+
+- [멕시코의 반도체: 칩을 만들기 위해 무엇이 부족한가](https://velog.io/@jose-a-maldonado/멕시코의-반도체-칩을-만들기-위해-무엇이-부족한가)<br />*"Semiconductores en México: ¿qué falta para fabricar chips?"*
+- [전기차 배터리는 죽지 않는다: 폐배터리의 두 번째 인생](https://joseangelmaldonado.tistory.com/1)<br />*"Las baterías de los autos eléctricos no mueren: la segunda vida de las baterías usadas"*
+
+### 🇫🇷 Francia
+
+- [La Ley de Inteligencia Artificial de la Unión Europea explicada](https://ciencia-y-tecnologia-con-jose-maldonado.overblog.fr/2026/11/la-ley-de-inteligencia-artificial-de-la-union-europea-explicada.html)
+- [Comunidades energéticas: cuando los vecinos producen su propia electricidad](https://cienciaytecnologia.canalblog.com/2026/11/comunidades-energeticas-cuando-los-vecinos-producen-su-propia-electricidad.html)
+
+### 🇪🇨 Ecuador
+
+- [El Acuerdo de Escazú: justicia ambiental en América Latina](https://getinkspired.com/es/story/766794/el-acuerdo-de-escazu-justicia-ambiental-en-america-latina-explicado/)
+
+### 🇹🇭 Tailandia
+
+- [การจดจำใบหน้าในพื้นที่สาธารณะ](https://www.blockdit.com/posts/6af8b15f13407895884d33ed)<br />*"Reconocimiento facial en espacios públicos"*
+- [ขยะอวกาศ: กองขยะที่ใหญ่ที่สุดของมนุษยชาติ](https://pantip.com/topic/44286036)<br />*"Basura espacial: el basurero más grande de la humanidad"*
+
+### 🇺🇸 Estados Unidos
 
 - [Cómo funciona el GPS: satélites, relojes y un poco de Einstein](https://dev.to/joseangelmaldonado/como-funciona-el-gps-satelites-relojes-y-un-poco-de-einstein-4hk3)
 - [Tu contraseña es débil: ataques de fuerza bruta](https://dev.to/joseangelmaldonado/tu-contrasena-es-debil-como-funciona-un-ataque-de-fuerza-bruta-y-como-defenderte-db6)
@@ -143,26 +167,9 @@
 - [Así aprende una IA: datos, ejemplos y mucha paciencia](https://dev.to/joseangelmaldonado/asi-aprende-una-ia-datos-ejemplos-y-mucha-paciencia-356)
 - [El botón de aceptar cookies: qué estás aceptando en realidad](https://dev.to/joseangelmaldonado/el-boton-de-aceptar-cookies-que-estas-aceptando-en-realidad-1b0n)
 - [Copia de seguridad 3-2-1](https://dev.to/joseangelmaldonado/copia-de-seguridad-3-2-1-la-regla-que-salva-tesis-fotos-y-negocios-1986)
-
-<h3>📝 Hashnode</h3>
-
 - [La nube tiene sed: cuánta agua gastan los centros de datos](https://joseangelmaldonado.hashnode.dev/la-nube-tiene-sed-cu-nta-agua-gastan-los-centros-de-datos-que-guardan-tus-fotos)
 - [Paneles solares en el techo: cuánta energía produce una casa al año](https://joseangelmaldonado.hashnode.dev/paneles-solares-en-el-techo-cu-nta-energ-a-produce-una-casa-al-a-o)
 - [La basura electrónica de tu cajón](https://joseangelmaldonado.hashnode.dev/la-basura-electr-nica-de-tu-caj-n-a-d-nde-van-los-celulares-que-ya-no-usas)
-
-<h3>📝 Telegraph</h3>
-
-- [El sesgo está en los datos](https://telegra.ph/El-sesgo-est%C3%A1-en-los-datos-cuando-un-algoritmo-aprende-nuestros-prejuicios-11-13)
-- [La tecnología llega a los tribunales](https://telegra.ph/La-tecnolog%C3%ADa-llega-a-los-tribunales-expedientes-electr%C3%B3nicos-audiencias-por-video-y-jueces-con-algoritmo-11-13)
-- [Energía eólica sin mitos](https://telegra.ph/Energ%C3%ADa-e%C3%B3lica-sin-mitos-el-viento-tambi%C3%A9n-trabaja-de-noche-11-13)
-- [Lo que tu cerebro hace mientras duermes: la ciencia del sueño](https://telegra.ph/Lo-que-tu-cerebro-hace-mientras-duermes-la-ciencia-del-sue%C3%B1o-11-13)
-- [El correo electrónico, el abuelo de internet](https://telegra.ph/El-correo-electr%C3%B3nico-el-abuelo-de-internet-que-se-niega-a-morir-11-13)
-- [El telescopio en tu bolsillo: astronomía con un celular](https://telegra.ph/El-telescopio-en-tu-bolsillo-astronom%C3%ADa-con-un-celular-11-13)
-- [Leer código, el idioma secreto que mueve tu día](https://telegra.ph/Leer-c%C3%B3digo-el-idioma-secreto-que-mueve-tu-d%C3%ADa-11-13)
-- [Gráficas que mienten: cómo detectar una estadística manipulada](https://telegra.ph/Gráficas-que-mienten-cómo-detectar-una-estadística-manipulada-11-13)
-
-<h3>📝 Write.as</h3>
-
 - [Derecho de autor e inteligencia artificial](https://write.as/a0sp2qamo0ung.md)
 - [Tu huella digital](https://write.as/22cc9505ygeod.md)
 - [La paradoja de los cumpleaños](https://write.as/2nu3p4w2y5o40.md)
@@ -172,6 +179,17 @@
 - [Software libre](https://write.as/q0igle3u0be1k.md)
 - [Las matemáticas del supermercado](https://write.as/t8ie3wx3pav7v.md)
 - [La ciencia se corrige a sí misma](https://write.as/9m5h9g1cg43t6.md)
+
+### 🇦🇪 Emiratos Árabes Unidos
+
+- [El sesgo está en los datos](https://telegra.ph/El-sesgo-est%C3%A1-en-los-datos-cuando-un-algoritmo-aprende-nuestros-prejuicios-11-13)
+- [La tecnología llega a los tribunales](https://telegra.ph/La-tecnolog%C3%ADa-llega-a-los-tribunales-expedientes-electr%C3%B3nicos-audiencias-por-video-y-jueces-con-algoritmo-11-13)
+- [Energía eólica sin mitos](https://telegra.ph/Energ%C3%ADa-e%C3%B3lica-sin-mitos-el-viento-tambi%C3%A9n-trabaja-de-noche-11-13)
+- [Lo que tu cerebro hace mientras duermes: la ciencia del sueño](https://telegra.ph/Lo-que-tu-cerebro-hace-mientras-duermes-la-ciencia-del-sue%C3%B1o-11-13)
+- [El correo electrónico, el abuelo de internet](https://telegra.ph/El-correo-electr%C3%B3nico-el-abuelo-de-internet-que-se-niega-a-morir-11-13)
+- [El telescopio en tu bolsillo: astronomía con un celular](https://telegra.ph/El-telescopio-en-tu-bolsillo-astronom%C3%ADa-con-un-celular-11-13)
+- [Leer código, el idioma secreto que mueve tu día](https://telegra.ph/Leer-c%C3%B3digo-el-idioma-secreto-que-mueve-tu-d%C3%ADa-11-13)
+- [Gráficas que mienten: cómo detectar una estadística manipulada](https://telegra.ph/Gráficas-que-mienten-cómo-detectar-una-estadística-manipulada-11-13)
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
