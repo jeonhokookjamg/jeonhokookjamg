@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b0764"/>
+      <stop offset="0.55" stop-color="#a21caf"/>
+      <stop offset="1" stop-color="#db2777"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#g)"/>
+  <circle cx="70" cy="34" r="4" fill="#ffffff" opacity="0.5"/>
+  <circle cx="1130" cy="30" r="4" fill="#ffffff" opacity="0.5"/>
+  <circle cx="1060" cy="66" r="3" fill="#ffffff" opacity="0.35"/>
+  <circle cx="140" cy="70" r="3" fill="#ffffff" opacity="0.35"/>
+  <text x="600" y="66" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">🌐 Let's Connect</text>
+  <path d="M0 96 C 200 78, 400 112, 600 96 C 800 80, 1000 112, 1200 96 L1200 120 L0 120 Z" fill="#ffffff" opacity="0.16"/>
+</svg>
