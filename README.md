@@ -25,10 +25,23 @@
   </a>
 </p>
 
-<p align="center">
-  🎵 <b>Música de ambiente</b><br />
-  <audio controls loop src="assets/musica-ambiente.mp3"></audio>
-</p>
+<audio id="bg-music" autoplay loop muted src="assets/musica-ambiente.mp3"></audio>
+<script>
+  (function () {
+    var a = document.getElementById('bg-music');
+    function start() {
+      if (!a) return;
+      a.muted = false;
+      a.play().catch(function () {});
+      document.removeEventListener('pointerdown', start);
+      document.removeEventListener('keydown', start);
+      document.removeEventListener('touchstart', start);
+    }
+    document.addEventListener('pointerdown', start);
+    document.addEventListener('keydown', start);
+    document.addEventListener('touchstart', start);
+  })();
+</script>
 
 <p align="center"><img src="assets/banner-about.svg" width="100%" alt="About Me" /></p>
 
@@ -48,7 +61,7 @@
   practical solutions.
 </p>
 
-<h3 align="center">🎓 Academic Background</h3>
+<p align="center"><img src="assets/banner-academic.svg" width="92%" alt="Academic Background" /></p>
 
 <ul>
   <li>🎓 <b>Computer Engineering</b> — UAEMéx, Centro Universitario Valle de Chalco</li>
@@ -58,7 +71,7 @@
   <li>📊 <b>Data Science course</b> — Global Consumer Intelligence (GCI) program, University of Tokyo</li>
 </ul>
 
-<h3 align="center">🤝 Leadership &amp; Community</h3>
+<p align="center"><img src="assets/banner-leadership.svg" width="92%" alt="Leadership & Community" /></p>
 
 <ul>
   <li>🏛️ <b>Student Counselor (Consejero Alumno)</b> for Computer Engineering — Governing Council, UAEMéx CU Valle de Chalco</li>
@@ -67,7 +80,7 @@
   <li>📚 <b>Social service</b> in adult literacy and education — INEA, Casita del DIF</li>
 </ul>
 
-<h3 align="center">💻 Projects &amp; Environment</h3>
+<p align="center"><img src="assets/banner-projectsenv.svg" width="92%" alt="Projects & Environment" /></p>
 
 <ul>
   <li>🏥 <b>ASMI</b> — Founder, General Director and Principal Architect of the multihospital healthcare management system</li>
