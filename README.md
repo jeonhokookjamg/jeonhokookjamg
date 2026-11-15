@@ -47,6 +47,13 @@
   <img src="https://img.shields.io/badge/Focus-Technology_%26_Sustainability-DC2626?style=flat-square" alt="Focus" />
 </p>
 
+<h2 align="center">🎓 Academic Background</h2>
+
+<p align="center">
+  <b>UAEMéx</b> — Computer Engineering (Ingeniería en Computación)<br />
+  <b>UnADM</b> — Renewable Energy Engineering (Ingeniería en Energías Renovables)
+</p>
+
 <table width="100%" border="0" align="center">
   <tr>
     <td width="50%" align="center" style="padding:14px;">
@@ -94,32 +101,6 @@
       </p>
       <p>
         <b>Focus:</b> Software · Databases · Systems · Healthcare · Automation
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="padding:22px;">
-      <h3>🌿 BIOCUX</h3>
-      <p>
-        Biodiversity monitoring project focused on documenting and researching
-        species around CU UAEM Valle de Chalco using digital tools and biodiversity data.
-      </p>
-      <p>
-        <b>Focus:</b> Biodiversity · Data · Technology · Environment
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="padding:22px;">
-      <h3>🌱 Raíces del Valle</h3>
-      <p>
-        Regenerative floating-crop project exploring sustainable production
-        and environmental solutions around Laguna de Xico and Valle de Chalco.
-      </p>
-      <p>
-        <b>Focus:</b> Sustainability · Water · Agriculture · Environmental Innovation
       </p>
     </td>
   </tr>
