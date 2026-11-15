@@ -16,6 +16,9 @@
   <a href="https://github.com/jeonhokookjamg">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
+  <a href="https://cordis.europa.eu/">
+    <img src="https://img.shields.io/badge/CORDIS-Profile-003399?style=for-the-badge&logo=europeanunion&logoColor=white&labelColor=0a0a0a" alt="CORDIS" />
+  </a>
 </p>
 
 <p align="center">
@@ -33,8 +36,7 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>José Ángel Maldonado Guzmán</b>, a <b>Computer Engineering</b> student at
-  <b>UAEMéx</b> and also a <b>Renewable Energy Engineering</b> student at <b>UnADM</b>.
+  Hey! I'm <b>José Ángel Maldonado Guzmán</b>.
   <br /><br />
   I'm interested in combining <b>software development, artificial intelligence,
   data, renewable energy and environmental technology</b> to create practical solutions.
@@ -42,8 +44,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building_%26_Learning-111111?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/UAEMéx-Computer_Engineering-DC2626?style=flat-square" alt="UAEMéx" />
-  <img src="https://img.shields.io/badge/UnADM-Renewable_Energy-111111?style=flat-square" alt="UnADM" />
   <img src="https://img.shields.io/badge/Focus-Technology_%26_Sustainability-DC2626?style=flat-square" alt="Focus" />
 </p>
 
@@ -107,13 +107,6 @@
 </table>
 
 <h2 align="center">📚 Publications</h2>
-
-<p align="center">
-  Science communication articles published on blogs in <b>9 countries</b> — Japan, South Korea,
-  France, Ecuador, Thailand and more — about technology, sustainability, data and law.<br />
-  <sub>36 textos de divulgación publicados · ORCID:
-  <a href="https://orcid.org/0009-0005-7538-3768">0009-0005-7538-3768</a></sub>
-</p>
 
 <h3>🌎 Around the World</h3>
 
@@ -250,6 +243,9 @@
   </a>
   <a href="https://orcid.org/0009-0005-7538-3768">
     <img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0a0a0a" alt="ORCID" />
+  </a>
+  <a href="https://cordis.europa.eu/">
+    <img src="https://img.shields.io/badge/CORDIS-Profile-003399?style=for-the-badge&logo=europeanunion&logoColor=white&labelColor=0a0a0a" alt="CORDIS" />
   </a>
 </p>
 
