@@ -25,7 +25,12 @@
   </a>
 </p>
 
-<h2 align="center">About Me</h2>
+<p align="center">
+  🎵 <b>Música de ambiente</b><br />
+  <audio controls loop src="assets/musica-ambiente.mp3"></audio>
+</p>
+
+<p align="center"><img src="assets/banner-about.svg" width="100%" alt="About Me" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=650&height=28&lines=Technology+%2B+Innovation+%2B+Sustainability;Programming+ideas+into+real+solutions." width="100%" style="max-width:650px;" alt="Typing Quote" />
@@ -36,9 +41,8 @@
 </p>
 
 <p align="center">
-  <b>José Ángel Maldonado Guzmán</b> was born on July 12, 2005, in the State of
-  Mexico, and lives in Valle de Chalco Solidaridad. He is a university student
-  and social activist focused on <b>technology, sustainability and community
+  <b>José Ángel Maldonado Guzmán</b> is a university student and social activist
+  from the State of Mexico, focused on <b>technology, sustainability and community
   development</b>, interested in combining software development, artificial
   intelligence, data, renewable energy and environmental technology to create
   practical solutions.
@@ -46,39 +50,30 @@
 
 <h3 align="center">🎓 Academic Background</h3>
 
-<p align="center">
-  He holds a technical degree as <b>Técnico en Soporte y Mantenimiento de Equipo
-  de Cómputo</b> from CECyTEM Valle de Chalco Solidaridad I, and he simultaneously
-  studies three university programs: <b>Computer Engineering</b> at UAEMéx
-  (Centro Universitario Valle de Chalco), <b>Renewable Energy Engineering</b>
-  online at UnADM, and <b>Law</b> at Instituto Consorcio Clavijero (ICC). He also
-  complements his training with the Data Science course of the Global Consumer
-  Intelligence (GCI) program, associated with the University of Tokyo.
-</p>
+<ul>
+  <li>🎓 <b>Computer Engineering</b> — UAEMéx, Centro Universitario Valle de Chalco</li>
+  <li>⚡ <b>Renewable Energy Engineering</b> (online) — UnADM, Universidad Abierta y a Distancia de México</li>
+  <li>⚖️ <b>Law</b> (Licenciatura en Derecho) — Instituto Consorcio Clavijero (ICC), Veracruz</li>
+  <li>🔧 <b>Technical degree in Computer Equipment Support and Maintenance</b> (Técnico en Soporte y Mantenimiento de Equipo de Cómputo) — CECyTEM Valle de Chalco Solidaridad I</li>
+  <li>📊 <b>Data Science course</b> — Global Consumer Intelligence (GCI) program, University of Tokyo</li>
+</ul>
 
 <h3 align="center">🤝 Leadership &amp; Community</h3>
 
-<p align="center">
-  He serves as <b>Student Counselor (Consejero Alumno)</b> representing Computer
-  Engineering before the Governing Council of UAEMéx CU Valle de Chalco, and he
-  was campus coordinator for the <b>Impact Startup Competition</b>. He is
-  co-founder of the youth initiative <b>Unión de Liberación Mexicana</b>, which
-  has presented proposals before the Parlamento Juvenil on climate crisis,
-  environmental justice and technology, and he completed his social service in
-  adult literacy and education with <b>INEA</b> at the Casita del DIF.
-</p>
+<ul>
+  <li>🏛️ <b>Student Counselor (Consejero Alumno)</b> for Computer Engineering — Governing Council, UAEMéx CU Valle de Chalco</li>
+  <li>🚀 <b>Campus coordinator</b> — Impact Startup Competition</li>
+  <li>✊ <b>Co-founder</b> — Unión de Liberación Mexicana, youth initiative with proposals before the Parlamento Juvenil on climate crisis, environmental justice and technology</li>
+  <li>📚 <b>Social service</b> in adult literacy and education — INEA, Casita del DIF</li>
+</ul>
 
 <h3 align="center">💻 Projects &amp; Environment</h3>
 
-<p align="center">
-  He leads <b>ASMI</b>, a multihospital healthcare management system, as its
-  founder, General Director and Principal Architect. Committed to the environment
-  and science communication in his community, he created and hosts <b>Bio Cux</b>,
-  an environmental education and fauna observation workshop in Valle de Chalco
-  that combines birdwatching and citizen science with technological tools for
-  biological identification. He also publishes science and technology articles
-  on blogs around the world.
-</p>
+<ul>
+  <li>🏥 <b>ASMI</b> — Founder, General Director and Principal Architect of the multihospital healthcare management system</li>
+  <li>🐦 <b>Bio Cux</b> — Creator and host of the environmental education and fauna observation workshop in Valle de Chalco, combining birdwatching and citizen science with technological tools</li>
+  <li>✍️ <b>Science communication</b> — science and technology articles published on blogs around the world</li>
+</ul>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building_%26_Learning-111111?style=flat-square" alt="Status" />
@@ -130,7 +125,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<p align="center"><img src="assets/banner-projects.svg" width="100%" alt="Featured Projects" /></p>
 
 <table width="100%" border="0" align="center">
   <tr>
@@ -149,7 +144,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<h2 align="center">📚 Publications</h2>
+<p align="center"><img src="assets/banner-publications.svg" width="100%" alt="Publications" /></p>
 
 ### 🇯🇵 Japón
 
@@ -210,7 +205,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center"><img src="assets/banner-tech.svg" width="100%" alt="Tech Stack" /></p>
 
 <p align="center">
   <b>Programming Languages</b>
@@ -252,7 +247,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h2 align="center">🌎 Areas of Interest</h2>
+<p align="center"><img src="assets/banner-areas.svg" width="100%" alt="Areas of Interest" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=tensorflow&logoColor=EF4444" alt="Artificial Intelligence" />
@@ -263,15 +258,13 @@
   <img src="https://img.shields.io/badge/Climate_Tech-000000?style=for-the-badge&logo=environment&logoColor=EF4444" alt="Climate Tech" />
 </p>
 
-<h2 align="center">🏆 Logros destacados</h2>
+<p align="center"><img src="assets/banner-logros.svg" width="100%" alt="Logros destacados" /></p>
 
-<p align="center">
-  🏅 <a href="https://hackods.github.io/HackODS2026_PatosClimaticODS/"><b>Finalist — HackODS UNAM 2026</b></a><br />
-  With team LosPatosClimaticODS: territorial alert dashboards that protect
-  education (SDG 4) against climate change.
-</p>
+<ul>
+  <li>🏅 <a href="https://hackods.github.io/HackODS2026_PatosClimaticODS/"><b>Finalist — HackODS UNAM 2026</b></a> — with team LosPatosClimaticODS: territorial alert dashboards that protect education (SDG 4) against climate change</li>
+</ul>
 
-<h2 align="center">🐍 Contribution Journey</h2>
+<p align="center"><img src="assets/banner-journey.svg" width="100%" alt="Contribution Journey" /></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jeonhokookjamg/jeonhokookjamg/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
@@ -279,7 +272,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<h2 align="center">🌐 Let's Connect</h2>
+<p align="center"><img src="assets/banner-connect.svg" width="100%" alt="Let's Connect" /></p>
 
 <p align="center">
   <i>Technology, software, AI, sustainability, renewable energy and new ideas.</i>
