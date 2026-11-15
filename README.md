@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi+there!+I'm+José+Ángel+Maldonado+Guzmán+👋;Computer+Engineering+Student+💻;Renewable+Energy+Engineering+Student+⚡;AI%2C+Software+%26+Sustainability+🌎;Building+technology+for+real-world+problems+🚀" width="100%" style="max-width:650px;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi+there!+I'm+Jose+Angel+Maldonado+Guzman;Computer+Engineering+Student;Renewable+Energy+Engineering+Student;AI%2C+Software+%26+Sustainability;Building+technology+for+real-world+problems" width="100%" style="max-width:650px;" alt="Typing SVG" />
 </p>
 
 <p align="center">
