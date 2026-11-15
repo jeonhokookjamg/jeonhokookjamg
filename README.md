@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/foto-perfil.png" width="230" alt="José Ángel Maldonado Guzmán" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi+there!+I'm+Jose+Angel+Maldonado+Guzman;Computer+Engineering+Student;Renewable+Energy+Engineering+Student;AI%2C+Software+%26+Sustainability;Building+technology+for+real-world+problems" width="100%" style="max-width:650px;" alt="Typing SVG" />
 </p>
 
@@ -129,7 +133,7 @@
 - 🇫🇷 **Canalblog (France)** — [Comunidades energéticas: cuando los vecinos producen su propia electricidad](https://cienciaytecnologia.canalblog.com/2026/11/comunidades-energeticas-cuando-los-vecinos-producen-su-propia-electricidad.html)
 - 🇪🇨 **Inkspired (Ecuador)** — [El Acuerdo de Escazú: justicia ambiental en América Latina](https://getinkspired.com/es/story/766794/el-acuerdo-de-escazu-justicia-ambiental-en-america-latina-explicado/)
 - 🇹🇭 **Blockdit (Thailand)** — [การจดจำใบหน้าในพื้นที่สาธารณะ](https://www.blockdit.com/posts/6af8b15f13407895884d33ed)
-- 🇹🇭 **Pantip (Thailand)** — [ขยะอวกาศ: กองขยะที่ใหญ่ที่สุดของมนুষยชาติ](https://pantip.com/topic/44286036)
+- 🇹🇭 **Pantip (Thailand)** — [ขยะอวกาศ: กองขยะที่ใหญ่ที่สุดของมนุษยชาติ](https://pantip.com/topic/44286036)
 
 <h3>📝 DEV.to</h3>
 
