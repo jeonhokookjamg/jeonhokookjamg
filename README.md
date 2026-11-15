@@ -247,7 +247,7 @@
 <h2 align="center">🏆 Logros destacados</h2>
 
 <p align="center">
-  🏅 <b>Finalist — HackODS UNAM 2026</b><br />
+  🏅 <a href="https://hackods.github.io/HackODS2026_PatosClimaticODS/"><b>Finalist — HackODS UNAM 2026</b></a><br />
   With team LosPatosClimaticODS: territorial alert dashboards that protect
   education (SDG 4) against climate change.
 </p>
