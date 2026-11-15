@@ -146,32 +146,32 @@
 
 <p align="center"><img src="assets/banner-publications.svg" width="100%" alt="Publications" /></p>
 
-### 🇯🇵 Japón
+### 🇯🇵 Japan · Japón
 
 - [Pagos digitales en India: el sistema UPI](https://note.com/jose_a_maldonado/n/n4d7604cfad76)
 - [The Right to Repair](https://note.com/jose_a_maldonado/n/n0d54d74035d7)<br />*"El derecho a reparar"*
 - [ペロブスカイト太陽電池](https://note.com/jose_a_maldonado/n/n4607cd8ddb39)<br />*"Celdas solares de perovskita"*
 
-### 🇰🇷 Corea del Sur
+### 🇰🇷 South Korea · Corea del Sur
 
 - [멕시코의 반도체: 칩을 만들기 위해 무엇이 부족한가](https://velog.io/@jose-a-maldonado/멕시코의-반도체-칩을-만들기-위해-무엇이-부족한가)<br />*"Semiconductores en México: ¿qué falta para fabricar chips?"*
 - [전기차 배터리는 죽지 않는다: 폐배터리의 두 번째 인생](https://joseangelmaldonado.tistory.com/1)<br />*"Las baterías de los autos eléctricos no mueren: la segunda vida de las baterías usadas"*
 
-### 🇫🇷 Francia
+### 🇫🇷 France · Francia
 
 - [La Ley de Inteligencia Artificial de la Unión Europea explicada](https://ciencia-y-tecnologia-con-jose-maldonado.overblog.fr/2026/11/la-ley-de-inteligencia-artificial-de-la-union-europea-explicada.html)
 - [Comunidades energéticas: cuando los vecinos producen su propia electricidad](https://cienciaytecnologia.canalblog.com/2026/11/comunidades-energeticas-cuando-los-vecinos-producen-su-propia-electricidad.html)
 
-### 🇪🇨 Ecuador
+### 🇪🇨 Ecuador · Ecuador
 
 - [El Acuerdo de Escazú: justicia ambiental en América Latina](https://getinkspired.com/es/story/766794/el-acuerdo-de-escazu-justicia-ambiental-en-america-latina-explicado/)
 
-### 🇹🇭 Tailandia
+### 🇹🇭 Thailand · Tailandia
 
 - [การจดจำใบหน้าในพื้นที่สาธารณะ](https://www.blockdit.com/posts/6af8b15f13407895884d33ed)<br />*"Reconocimiento facial en espacios públicos"*
 - [ขยะอวกาศ: กองขยะที่ใหญ่ที่สุดของมนุษยชาติ](https://pantip.com/topic/44286036)<br />*"Basura espacial: el basurero más grande de la humanidad"*
 
-### 🇺🇸 Estados Unidos
+### 🇺🇸 United States · Estados Unidos
 
 - [Cómo funciona el GPS: satélites, relojes y un poco de Einstein](https://dev.to/joseangelmaldonado/como-funciona-el-gps-satelites-relojes-y-un-poco-de-einstein-4hk3)
 - [Tu contraseña es débil: ataques de fuerza bruta](https://dev.to/joseangelmaldonado/tu-contrasena-es-debil-como-funciona-un-ataque-de-fuerza-bruta-y-como-defenderte-db6)
@@ -192,7 +192,7 @@
 - [Las matemáticas del supermercado](https://write.as/t8ie3wx3pav7v.md)
 - [La ciencia se corrige a sí misma](https://write.as/9m5h9g1cg43t6.md)
 
-### 🇦🇪 Emiratos Árabes Unidos
+### 🇦🇪 United Arab Emirates · Emiratos Árabes Unidos
 
 - [El sesgo está en los datos](https://telegra.ph/El-sesgo-est%C3%A1-en-los-datos-cuando-un-algoritmo-aprende-nuestros-prejuicios-11-13)
 - [La tecnología llega a los tribunales](https://telegra.ph/La-tecnolog%C3%ADa-llega-a-los-tribunales-expedientes-electr%C3%B3nicos-audiencias-por-video-y-jueces-con-algoritmo-11-13)
