@@ -25,10 +25,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeonhokookjamg&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
-</p>
-
 <h2 align="center">About Me</h2>
 
 <p align="center">
@@ -40,17 +36,47 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>José Ángel Maldonado Guzmán</b>.
-  <br /><br />
-  I'm interested in combining <b>software development, artificial intelligence,
-  data, renewable energy and environmental technology</b> to create practical solutions.
+  <b>José Ángel Maldonado Guzmán</b> was born on July 12, 2005, in the State of
+  Mexico, and lives in Valle de Chalco Solidaridad. He is a university student
+  and social activist focused on <b>technology, sustainability and community
+  development</b>, interested in combining software development, artificial
+  intelligence, data, renewable energy and environmental technology to create
+  practical solutions.
 </p>
 
+<h3 align="center">🎓 Academic Background</h3>
+
 <p align="center">
-  I'm the founder and General Director of <b>ASMI</b>, a multihospital healthcare
-  management system, and I serve as Student Counselor (Consejero Alumno) for Computer
-  Engineering at UAEMéx Valle de Chalco. I lead the environmental education workshop
-  <b>Bio Cux</b> in my community, and I publish science and technology articles
+  He holds a technical degree as <b>Técnico en Soporte y Mantenimiento de Equipo
+  de Cómputo</b> from CECyTEM Valle de Chalco Solidaridad I, and he simultaneously
+  studies three university programs: <b>Computer Engineering</b> at UAEMéx
+  (Centro Universitario Valle de Chalco), <b>Renewable Energy Engineering</b>
+  online at UnADM, and <b>Law</b> at Instituto Consorcio Clavijero (ICC). He also
+  complements his training with the Data Science course of the Global Consumer
+  Intelligence (GCI) program, associated with the University of Tokyo.
+</p>
+
+<h3 align="center">🤝 Leadership &amp; Community</h3>
+
+<p align="center">
+  He serves as <b>Student Counselor (Consejero Alumno)</b> representing Computer
+  Engineering before the Governing Council of UAEMéx CU Valle de Chalco, and he
+  was campus coordinator for the <b>Impact Startup Competition</b>. He is
+  co-founder of the youth initiative <b>Unión de Liberación Mexicana</b>, which
+  has presented proposals before the Parlamento Juvenil on climate crisis,
+  environmental justice and technology, and he completed his social service in
+  adult literacy and education with <b>INEA</b> at the Casita del DIF.
+</p>
+
+<h3 align="center">💻 Projects &amp; Environment</h3>
+
+<p align="center">
+  He leads <b>ASMI</b>, a multihospital healthcare management system, as its
+  founder, General Director and Principal Architect. Committed to the environment
+  and science communication in his community, he created and hosts <b>Bio Cux</b>,
+  an environmental education and fauna observation workshop in Valle de Chalco
+  that combines birdwatching and citizen science with technological tools for
+  biological identification. He also publishes science and technology articles
   on blogs around the world.
 </p>
 
@@ -61,13 +87,6 @@
 
 <p align="center">
   <img src="assets/ciudad.gif" width="640" style="max-width:100%;border-radius:12px;" alt="Ciudad inteligente" />
-</p>
-
-<h2 align="center">🎓 Academic Background</h2>
-
-<p align="center">
-  <b>UAEMéx</b> — Computer Engineering (Ingeniería en Computación)<br />
-  <b>UnADM</b> — Renewable Energy Engineering (Ingeniería en Energías Renovables)
 </p>
 
 <table width="100%" border="0" align="center">
